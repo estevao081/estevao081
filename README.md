@@ -27,4 +27,4 @@
 
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?estevao081=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiestevao081anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
