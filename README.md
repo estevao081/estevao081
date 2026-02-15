@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Thiago Estevão 👋
 
-- 🔭 Cursando o 3º período de Análise e Desenvolvimento de Sistemas.
+- 🔭 Cursando o 4º período de Análise e Desenvolvimento de Sistemas.
 - 🌱 Atualmente focado em desenvolvimento Back-end porém sempre aprendendo algo novo em outras áreas.
 - 👯 Buscando colaborar com projetos open-source.
 - 📫 Onde me encontrar:
