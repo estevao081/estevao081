@@ -44,15 +44,17 @@
 
 ## 📊 Estatísticas
 
-<div>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=estevao081&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=estevao081&layout=compact&langs_count=6&theme=github_dark"/>
+<div align="center">
+  <a href="https://github.com/estevao081">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=estevao081&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevao081&layout=compact&langs_count=6&theme=github_dark&cache_seconds=1800"/>
+  </a>
 </div>
 
 ---
 
 ## 🔥 Contribuições
 
-<div>
-  <img src="https://streak-stats.demolab.com?user=estevao081&theme=github-dark&hide_border=true"/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=estevao081&theme=github-dark&hide_border=true"/>
 </div>
