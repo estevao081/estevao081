@@ -28,27 +28,25 @@
 
 ## 🚀 Tecnologias
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40"/>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="40" alt="Spring"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" height="40" alt="Angular"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" height="40" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
+</div>
 
 ---
 
 ## 📊 Estatísticas
 
 <div align="center">
-  <a href="https://github.com/estevao081">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=estevao081&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevao081&layout=compact&langs_count=6&theme=github_dark&cache_seconds=1800"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=estevao081&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevao081&layout=compact&langs_count=6&theme=github_dark&cache_seconds=1800"/>
 </div>
 
 ---
